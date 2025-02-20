@@ -2,11 +2,7 @@
 
 ## 🛠 WordPress Developer | Frontend & Backend | ACF | Gutenberg  
 
-![WordPress](https://img.shields.io/badge/WordPress-0073AA?style=for-the-badge&logo=wordpress&logoColor=white)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)  
-![ACF](https://img.shields.io/badge/ACF-00C853?style=for-the-badge&logo=advancedcustomfields&logoColor=white)  
+![WordPress](https://img.shields.io/badge/WordPress-0073AA?style=for-the-badge&logo=wordpress&logoColor=white)  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)  ![ACF](https://img.shields.io/badge/ACF-00C853?style=for-the-badge&logo=advancedcustomfields&logoColor=white)  
 
 ### 🚀 About Me  
 - 🔹 I develop high-performance websites using **WordPress** with clean code  
