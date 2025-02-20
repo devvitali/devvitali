@@ -19,7 +19,7 @@
 ✅ **DevOps:** SiteGround, WP Engine, Git, CI/CD  
 
 ### 📌 My Projects  
-🔹 [Project 1 – Custom WordPress Theme](https://github.com/)  
+🔹 [Custom WordPress Theme](https://github.com/)  
  
 
 ### 📫 Contact Me  
