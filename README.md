@@ -21,8 +21,8 @@
  
 
 ### 📫 Contact Me  
-- ✉️ **Email:** your@email.com  
-- 🌐 **Portfolio:** [your website link]  
+- ✉️ **Email:** vitaly1.developer@gmail.com 
+- 🌐 **Portfolio:** https://devv.top/ 
 
 ---
 
