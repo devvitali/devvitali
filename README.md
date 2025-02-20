@@ -13,7 +13,7 @@
 
 ### 🛠 My Key Skills  
 ✅ **Languages:** PHP, JavaScript, HTML, CSS (SCSS)  
-✅ **CMS & Frameworks:** WordPress, WooCommerce, Elementor, ACF  
+✅ **CMS & Frameworks:** WordPress, WooCommerce, ACF  
 ✅ **Frontend:** Tailwind CSS, Bootstrap, React  
 ✅ **Backend:** WP REST API, MySQL  
 ✅ **DevOps:** SiteGround, WP Engine, Git, CI/CD  
